@@ -1,0 +1,13 @@
+{
+    "application":{
+        "arrera":{"url":"https://raw.githubusercontent.com/Arrera-Software/distribution/refs/heads/main/application/arrera/depots.json","img":""},
+        "hub":{"url":"https://raw.githubusercontent.com/Arrera-Software/distribution/refs/heads/main/application/hub/depots.json","img":""},
+        "markdown":{"url":"https://raw.githubusercontent.com/Arrera-Software/distribution/refs/heads/main/application/markdown/depots.json","img":""},
+        "post-it":{"url":"https://raw.githubusercontent.com/Arrera-Software/distribution/refs/heads/main/application/post-it/depots.json","img":""}
+    },
+    "assistants":{
+        "copilot":{"url":"https://raw.githubusercontent.com/Arrera-Software/distribution/refs/heads/main/assistant/copilote/depots.json","img":""},
+        "ryley":{"url":"https://raw.githubusercontent.com/Arrera-Software/distribution/refs/heads/main/assistant/ryley/depots.json","img":""},
+        "six":{"url":"https://raw.githubusercontent.com/Arrera-Software/distribution/refs/heads/main/assistant/six/depots.json","img":""}
+    }
+}
