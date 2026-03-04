@@ -1,7 +1,7 @@
 {
     "name":"Arrera SIX",
-    "version":"",
-    "download_linux":"",
-    "download_windows":"",
-    "download_macos":""
+    "version":"I2026-1.00",
+    "download_linux":"https://github.com/Arrera-Software/Six/releases/download/I2026-1.00/arrera-six-linux-x86.zip",
+    "download_windows":"https://github.com/Arrera-Software/Six/releases/download/I2026-1.00/arrera-six-win-x86.zip",
+    "download_macos":"https://github.com/Arrera-Software/Six/releases/download/I2026-1.00/arrera-six-mac.zip"
 }
