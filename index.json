@@ -2,7 +2,7 @@
     "application":[
         {"name":"arrera",
         "url":"https://raw.githubusercontent.com/Arrera-Software/distribution/refs/heads/main/application/arrera/depots.json",
-        "img":""},
+        "img":"https://github.com/Arrera-Software/distribution/blob/main/application/arrera/icon-linux-win.png?raw=true"},
         {"name":"hub",
         "url":"https://raw.githubusercontent.com/Arrera-Software/distribution/refs/heads/main/application/hub/depots.json",
         "img":""},
@@ -22,6 +22,6 @@
         "img":""},
         {"name":"Six",
         "url":"https://raw.githubusercontent.com/Arrera-Software/distribution/refs/heads/main/assistant/six/depots.json",
-        "img":""}
+        "img":"https://github.com/Arrera-Software/distribution/blob/main/assistant/six/icon.png?raw=true"}
     ]
 }
