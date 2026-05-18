@@ -14,9 +14,9 @@
         },
         {
             "name":"markdown",
-            "version":"I2026-0.00",
+            "version":"I2026-1.00",
             "url":"https://raw.githubusercontent.com/Arrera-Software/distribution/refs/heads/main/application/markdown/depots.json",
-            "img":""
+            "img":"https://github.com/Arrera-Software/distribution/blob/main/application/markdown/icon_markdown.png?raw=true"
         },
         {
             "name":"post-it",
