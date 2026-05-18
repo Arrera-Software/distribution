@@ -1,6 +1,6 @@
 {
     "name":"Arrera Hub",
-    "download_linux":"https://github.com/Arrera-Software/arrera_hub/releases/download/I2026-0.00/arrera-hub-linux-x86.zip",
-    "download_windows":"https://github.com/Arrera-Software/arrera_hub/releases/download/I2026-0.00/arrera-hub-windows-x86.zip",
-    "download_macos":"https://github.com/Arrera-Software/arrera_hub/releases/download/I2026-0.00/Arrera_Hub.dmg"
+    "download_linux":"https://github.com/Arrera-Software/arrera_hub/releases/download/I2026-1.00/arrera-hub-linux-x86.zip",
+    "download_windows":"https://github.com/Arrera-Software/arrera_hub/releases/download/I2026-1.00/arrera-hub-windows-x86.zip",
+    "download_macos":"https://github.com/Arrera-Software/arrera_hub/releases/download/I2026-1.00/Arrera_Hub.dmg"
 }
