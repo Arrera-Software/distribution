@@ -28,7 +28,7 @@
     "assistants":[
         {
             "name":"copilot",
-            "version":"I2026-1.00",
+            "version":"I2026-2.00",
             "url":"https://raw.githubusercontent.com/Arrera-Software/distribution/refs/heads/main/assistant/copilote/depots.json",
             "img":"https://github.com/Arrera-Software/distribution/blob/main/assistant/copilote/icon_copilote.png?raw=true"
         },
