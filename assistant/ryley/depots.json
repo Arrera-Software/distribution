@@ -1,7 +1,6 @@
 {
     "name":"Arrera Ryley",
-    
-    "download_linux":"https://github.com/Arrera-Software/Ryley/releases/download/I2026-1.00/arrera-ryley-linux-x86.zip",
-    "download_windows":"https://github.com/Arrera-Software/Ryley/releases/download/I2026-1.00/arrera-ryley-win-x86.zip",
-    "download_macos":"https://github.com/Arrera-Software/Ryley/releases/download/I2026-1.00/arrera-ryley-mac.zip"
+    "download_linux":"https://github.com/Arrera-Software/Ryley/releases/download/I2026-2.00/arrera-ryley-linux-x86.zip",
+    "download_windows":"https://github.com/Arrera-Software/Ryley/releases/download/I2026-2.00/arrera-ryley-windows-x86.zip",
+    "download_macos":"https://github.com/Arrera-Software/Ryley/releases/download/I2026-2.00/Arrera_ryley.dmg"
 }
