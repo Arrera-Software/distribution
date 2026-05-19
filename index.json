@@ -2,7 +2,7 @@
     "application":[
         {
             "name":"arrera",
-            "version":"I2026-1.00",
+            "version":"I2026-2.00",
             "url":"https://raw.githubusercontent.com/Arrera-Software/distribution/refs/heads/main/application/arrera/depots.json",
             "img":"https://github.com/Arrera-Software/distribution/blob/main/application/arrera/icon-linux-win.png?raw=true"
         },
