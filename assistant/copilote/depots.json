@@ -1,6 +1,6 @@
 {
     "name":"Arrera Copilot",
-    "download_linux":"https://github.com/Arrera-Software/Arrera-Copilote/releases/download/I2026-2.00/arrera-copilote-linux-x86.zip",
-    "download_windows":"https://github.com/Arrera-Software/Arrera-Copilote/releases/download/I2026-2.00/arrera-copilote-windows-x86.zip",
-    "download_macos":"https://github.com/Arrera-Software/Arrera-Copilote/releases/download/I2026-2.00/arrera-copilote-mac.zip"
+    "download_linux":"https://github.com/Arrera-Software/Arrera-Copilote/releases/download/I2026-3.00/arrera-copilote-linux-x86.zip",
+    "download_windows":"https://github.com/Arrera-Software/Arrera-Copilote/releases/download/I2026-3.00/arrera-copilote-windows-x86.zip",
+    "download_macos":"https://github.com/Arrera-Software/Arrera-Copilote/releases/download/I2026-3.00/arrera-copilote-mac.zip"
 }
