@@ -1,6 +1,6 @@
 {
     "name":"Arrera",
-    "download_linux":"https://github.com/Arrera-Software/Arrera-Interface/releases/download/I2026-2.00/arrera-interface-linux-x86.zip",
-    "download_windows":"https://github.com/Arrera-Software/Arrera-Interface/releases/download/I2026-2.00/arrera-interface-windows-x86.zip",
-    "download_macos":"https://github.com/Arrera-Software/Arrera-Interface/releases/download/I2026-2.00/arrera-mac.zip"
+    "download_linux":"https://github.com/Arrera-Software/Arrera-Interface/releases/download/I2026-2.50/arrera-interface-linux-x86.zip",
+    "download_windows":"https://github.com/Arrera-Software/Arrera-Interface/releases/download/I2026-2.50/arrera-interface-windows-x86.zip",
+    "download_macos":"https://github.com/Arrera-Software/Arrera-Interface/releases/download/I2026-2.50/arrera-mac.zip"
 }
