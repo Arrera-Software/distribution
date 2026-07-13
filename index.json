@@ -40,7 +40,13 @@
         },
         {
             "name":"six",
-            "version":"I2026-2.00",
+            "version":"I2026-3.00",
+            "url":"https://raw.githubusercontent.com/Arrera-Software/distribution/refs/heads/main/assistant/six/depots.json",
+            "img":"https://github.com/Arrera-Software/distribution/blob/main/assistant/six/icon.png?raw=true"
+        },
+        {
+            "name":"six_chat",
+            "version":"I2026-3.00",
             "url":"https://raw.githubusercontent.com/Arrera-Software/distribution/refs/heads/main/assistant/six/depots.json",
             "img":"https://github.com/Arrera-Software/distribution/blob/main/assistant/six/icon.png?raw=true"
         }
