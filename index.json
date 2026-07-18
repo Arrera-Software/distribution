@@ -4,25 +4,29 @@
             "name":"arrera",
             "version":"I2026-2.50",
             "url":"https://raw.githubusercontent.com/Arrera-Software/distribution/refs/heads/main/application/arrera/depots.json",
-            "img":"https://github.com/Arrera-Software/distribution/blob/main/application/arrera/icon-linux-win.png?raw=true"
+            "img":"https://github.com/Arrera-Software/distribution/blob/main/application/arrera/icon-linux-win.png?raw=true",
+            "app_id":"Arrera_Interface"
         },
         {
             "name":"hub",
             "version":"I2026-1.00",
             "url":"https://raw.githubusercontent.com/Arrera-Software/distribution/refs/heads/main/application/hub/depots.json",
-            "img":"https://github.com/Arrera-Software/distribution/blob/main/application/hub/icone_hub.png?raw=true"
+            "img":"https://github.com/Arrera-Software/distribution/blob/main/application/hub/icone_hub.png?raw=true",
+            "app_id":""
         },
         {
             "name":"markdown",
             "version":"I2026-1.50",
             "url":"https://raw.githubusercontent.com/Arrera-Software/distribution/refs/heads/main/application/markdown/depots.json",
-            "img":"https://github.com/Arrera-Software/distribution/blob/main/application/markdown/icon_markdown.png?raw=true"
+            "img":"https://github.com/Arrera-Software/distribution/blob/main/application/markdown/icon_markdown.png?raw=true",
+            "app_id":""
         },
         {
             "name":"post-it",
             "version":"",
             "url":"https://raw.githubusercontent.com/Arrera-Software/distribution/refs/heads/main/application/post-it/depots.json",
-            "img":""
+            "img":"",
+            "app_id":""
         }
     ],
     "assistants":[
@@ -30,25 +34,29 @@
             "name":"copilot",
             "version":"I2026-3.00",
             "url":"https://raw.githubusercontent.com/Arrera-Software/distribution/refs/heads/main/assistant/copilote/depots.json",
-            "img":"https://github.com/Arrera-Software/distribution/blob/main/assistant/copilote/icon_copilote.png?raw=true"
+            "img":"https://github.com/Arrera-Software/distribution/blob/main/assistant/copilote/icon_copilote.png?raw=true",
+            "app_id":""
         },
         {
             "name":"ryley",
             "version":"I2026-3.00",
             "url":"https://raw.githubusercontent.com/Arrera-Software/distribution/refs/heads/main/assistant/ryley/depots.json",
-            "img":"https://github.com/Arrera-Software/distribution/blob/main/assistant/ryley/icon_ryley.png?raw=true"
+            "img":"https://github.com/Arrera-Software/distribution/blob/main/assistant/ryley/icon_ryley.png?raw=true",
+            "app_id":""
         },
         {
             "name":"six",
             "version":"I2026-3.00",
             "url":"https://raw.githubusercontent.com/Arrera-Software/distribution/refs/heads/main/assistant/six/depots.json",
-            "img":"https://github.com/Arrera-Software/distribution/blob/main/assistant/six/icon.png?raw=true"
+            "img":"https://github.com/Arrera-Software/distribution/blob/main/assistant/six/icon.png?raw=true",
+            "app_id":"Tk"
         },
         {
             "name":"six_chat",
             "version":"I2026-3.00",
             "url":"https://raw.githubusercontent.com/Arrera-Software/distribution/refs/heads/main/assistant/six_chat/depots.json",
-            "img":"https://github.com/Arrera-Software/distribution/blob/main/assistant/six/icon.png?raw=true"
+            "img":"https://github.com/Arrera-Software/distribution/blob/main/assistant/six/icon.png?raw=true",
+            "app_id":"Tk"
         }
     ]
 }
