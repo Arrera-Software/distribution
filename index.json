@@ -9,10 +9,10 @@
         },
         {
             "name":"hub",
-            "version":"I2026-1.00",
+            "version":"I2026-1.50",
             "url":"https://raw.githubusercontent.com/Arrera-Software/distribution/refs/heads/main/application/hub/depots.json",
             "img":"https://github.com/Arrera-Software/distribution/blob/main/application/hub/icone_hub.png?raw=true",
-            "app_id":""
+            "app_id":"Arrera_Hub"
         },
         {
             "name":"markdown",
